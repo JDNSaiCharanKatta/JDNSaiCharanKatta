@@ -15,5 +15,5 @@ I'm K J D N Sai Charan! I am a dedicated and passionate DevOps Engineer with a s
 🎯 Goals: To become a certified AWS DevOps Engineer and contribute to building scalable cloud infrastructure.
 
 # I code with
-Awslogo.webp
+
 
