@@ -15,5 +15,14 @@ I'm K J D N Sai Charan! I am a dedicated and passionate DevOps Engineer with a s
 🎯 Goals: To become a certified AWS DevOps Engineer and contribute to building scalable cloud infrastructure.
 
 # I code with
+## 🔧 Tech Stack
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" />&nbsp;
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60" />&nbsp;
+<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60" />&nbsp;
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="60" />&nbsp;
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="60" />&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />&nbsp;
+<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="30" />
 
 
