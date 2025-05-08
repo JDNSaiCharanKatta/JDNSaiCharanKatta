@@ -29,11 +29,11 @@ I'm K J D N Sai Charan! I am a dedicated and passionate DevOps Engineer with a s
 
 ## 📬 Contact Me
 
-<a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+<a href="https://www.linkedin.com/in/saicharankatta" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
 </a>&nbsp;
 
-<a href="mailto:yourname@gmail.com">
+<a href="mailto:saicharank366@gmail.com">
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="30" />
 </a>
 
