@@ -1,40 +1,28 @@
-## Hi there 👋
+<!-- Profile README: https://github.com/JDNSaiCharanKatta/JDNSaiCharanKatta -->
+<!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL before publishing -->
 
-# About me
-I'm K J D N Sai Charan! I am a dedicated and passionate DevOps Engineer with a strong focus on AWS and Python. I enjoy leveraging cloud technologies to build scalable, efficient, and resilient systems.
+<div align="center">
 
-🔭 I’m currently working on cloud infrastructure automation projects using AWS and Python.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+K+J+D+N+Sai+Charan;Cloud+%26+DevOps+Engineer;Automate+%C2%B7+Monitor+%C2%B7+Scale" alt="Typing intro" />
 
-🌱 I’m currently deepening my knowledge in AWS services, CI/CD pipelines, and infrastructure as code (IaC) with tools like Terraform and AWS CloudFormation.
+<br/>
 
-👯 I’m looking to collaborate on projects related to cloud automation, DevOps practices, and Python development.
+**Cloud & DevOps Engineer** passionate about designing, automating, and optimizing **scalable cloud infrastructure** and **deployment pipelines**.
 
-💬 Ask me about AWS, DevOps best practices, Python scripting, and cloud infrastructure.
+<br/>
 
-📚 I'm currently learning advanced DevOps practices and AWS technologies.
-🎯 Goals: To become a certified AWS DevOps Engineer and contribute to building scalable cloud infrastructure.
+[![Profile views](https://komarev.com/ghpvc/?username=JDNSaiCharanKatta&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/JDNSaiCharanKatta)
+[![GitHub followers](https://img.shields.io/github/followers/JDNSaiCharanKatta?style=flat&logo=github&color=181717)](https://github.com/JDNSaiCharanKatta?tab=followers)
 
-## 🔧 Tech Stack
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" />&nbsp;&nbsp;
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="60" />&nbsp;&nbsp;
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" />&nbsp;&nbsp;
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60" />&nbsp;&nbsp;
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="60" />&nbsp;&nbsp;
-  <img src="https://www.python.org/static/community_logos/python-logo.png" width="60" />
-</p>
+</div>
 
+---
 
+## About Me
 
-## 📬 Contact Me
-
-<a href="https://www.linkedin.com/in/saicharankatta" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
-</a>&nbsp;
-
-<a href="mailto:saicharank366@gmail.com">
-  <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="30" />
-</a>
-
-
+```yaml
+name: K J D N Sai Charan
+role: Cloud & DevOps Engineer
+location: India
+motto: Automate everything, monitor continuously, and build scalable systems.
+certification_goal: AWS Certified DevOps Engineer — Professional
