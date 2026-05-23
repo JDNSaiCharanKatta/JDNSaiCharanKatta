@@ -1,34 +1,46 @@
 <!-- Profile README: https://github.com/JDNSaiCharanKatta/JDNSaiCharanKatta -->
 <!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL before publishing -->
 
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4078c0,50:6a11cb,100:232f3e&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header banner"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF9900&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+K+J+D+N+Sai+Charan;Cloud+%26+DevOps+Engineer;Automate+%C2%B7+Monitor+%C2%B7+Scale" alt="Typing intro" />
+<!-- Optional: replace with your own banner image in repo -->
+<!-- <img src="https://raw.githubusercontent.com/JDNSaiCharanKatta/JDNSaiCharanKatta/main/assets/banner.png" width="100%" alt="Profile banner"/> -->
+
+# Hi there, I'm K J D N Sai Charan 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+scalable+cloud+infrastructure;Automating+CI%2FCD+%26+deployment+pipelines;AWS+%7C+GCP+%7C+Kubernetes+%7C+Docker;Infrastructure+as+Code+%7C+Observability" alt="Typing animation"/>
 
 <br/>
 
-**Cloud & DevOps Engineer** passionate about designing, automating, and optimizing **scalable cloud infrastructure** and **deployment pipelines**.
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4d2e2c794ae8.gif" width="100">
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=JDNSaiCharanKatta&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/JDNSaiCharanKatta)
-[![GitHub followers](https://img.shields.io/github/followers/JDNSaiCharanKatta?style=flat&logo=github&color=181717)](https://github.com/JDNSaiCharanKatta?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=JDNSaiCharanKatta&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/JDNSaiCharanKatta)
+[![GitHub followers](https://img.shields.io/github/followers/JDNSaiCharanKatta?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/JDNSaiCharanKatta?tab=followers)
+[![Location](https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/JDNSaiCharanKatta)
+[![Open to work](https://img.shields.io/badge/Open%20to-Cloud%20%26%20DevOps%20Roles-success?style=for-the-badge)](https://github.com/JDNSaiCharanKatta)
 
 </div>
 
 ---
 
-## About Me
+## 🧐 About Me
 
 ```yaml
 name: K J D N Sai Charan
 role: Cloud & DevOps Engineer
-location: India
+location: India 🇮🇳
 motto: Automate everything, monitor continuously, and build scalable systems.
 certification_goal: AWS Certified DevOps Engineer — Professional
 ```
 
-I am a **Cloud & DevOps Engineer** from **India** with hands-on experience in cloud platforms, automation, containerization, and infrastructure management. I enjoy building reliable systems, streamlining **CI/CD** workflows, and implementing **cloud-native** solutions that improve efficiency and scalability.
+🚀 **Cloud & DevOps Engineer** passionate about designing, automating, and optimizing **scalable cloud infrastructure** and **deployment pipelines**.
+
+I am from **India** with hands-on experience in cloud platforms, automation, containerization, and infrastructure management. I enjoy building reliable systems, streamlining **CI/CD** workflows, and implementing **cloud-native** solutions that improve efficiency and scalability.
 
 ### 💡 Areas of Interest
 
@@ -40,11 +52,13 @@ I am a **Cloud & DevOps Engineer** from **India** with hands-on experience in cl
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,python,bash,terraform,ansible&theme=light" alt="Core tech stack" />
+**Core tech stack**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra&theme=light" alt="Core tech stack"/>
 
 </div>
 
@@ -91,11 +105,11 @@ I am a **Cloud & DevOps Engineer** from **India** with hands-on experience in cl
 
 ---
 
-## Current Goal
+## 🎯 Current Goal
 
 <div align="center">
 
-🎯 **Preparing for:** [AWS Certified DevOps Engineer — Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+**Preparing for:** [AWS Certified DevOps Engineer — Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 
 <br/>
 
@@ -105,9 +119,13 @@ I am a **Cloud & DevOps Engineer** from **India** with hands-on experience in cl
 
 ---
 
-## Motto
+## 💬 Motto
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+
+<br/><br/>
 
 > *"Automate everything, monitor continuously, and build scalable systems."*
 
@@ -119,25 +137,36 @@ I am a **Cloud & DevOps Engineer** from **India** with hands-on experience in cl
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JDNSaiCharanKatta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JDNSaiCharanKatta&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JDNSaiCharanKatta&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub streak stats"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDNSaiCharanKatta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDNSaiCharanKatta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JDNSaiCharanKatta&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDNSaiCharanKatta&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top languages" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDNSaiCharanKatta&theme=tokyo-night&hide_border=false&area=true&border_radius=10" alt="Contribution graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JDNSaiCharanKatta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
+
+Let's connect and collaborate on **cloud automation**, **DevOps**, and **infrastructure** projects.
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDNSaiCharanKatta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
@@ -149,8 +178,10 @@ I am a **Cloud & DevOps Engineer** from **India** with hands-on experience in cl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave"/>
 
-**Thanks for visiting my profile!** ☁️
+**Thanks for visiting — happy to connect!** ☁️
+
+<img src="https://media.giphy.com/media/L1R1WXzqFWd00O2gN8/giphy.gif" width="30" alt="wave gif"/>
 
 </div>
