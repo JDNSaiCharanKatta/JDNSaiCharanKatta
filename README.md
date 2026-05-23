@@ -1,10 +1,6 @@
 <!-- Profile README: https://github.com/JDNSaiCharanKatta/JDNSaiCharanKatta -->
 <!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL before publishing -->
 
-<!-- Header banner — dark theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=38&fontColor=58a6ff&animation=twinkling" width="100%" alt="Header banner"/>
-
-<div align="center">
 
 # Hi there, I'm K J D N Sai Charan 👋
 
@@ -56,7 +52,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 **Core tech stack**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra&theme=dark&perline=11"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra line=11"/>
 </div>
 
 ### ☁️ Cloud Platforms
