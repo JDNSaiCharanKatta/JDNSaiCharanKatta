@@ -38,17 +38,22 @@ motto: Automate everything, monitor continuously, and build scalable systems.
 certification_goal: AWS Certified DevOps Engineer — Professional
 ```
 
-🚀 **Cloud & DevOps Engineer** passionate about designing, automating, and optimizing **scalable cloud infrastructure** and **deployment pipelines**.
+🚀 **Cloud & DevOps Engineer with 2+ years of experience** in building, automating, and supporting cloud-based infrastructure and deployment workflows.
 
-I am from **India** with hands-on experience in cloud platforms, automation, containerization, and infrastructure management. I enjoy building reliable systems, streamlining **CI/CD** workflows, and implementing **cloud-native** solutions that improve efficiency and scalability.
+I am from **India** and have hands-on experience working with cloud platforms, Linux administration, containerization, CI/CD pipelines, and infrastructure automation. Passionate about learning and implementing modern DevOps practices to improve system reliability, scalability, and operational efficiency.
+
+I enjoy solving infrastructure challenges, automating repetitive tasks, and contributing to cloud-native solutions that enable faster and more reliable software delivery.
 
 ### 💡 Areas of Interest
 
-| | |
-|:---|:---|
-| ☁️ Cloud Infrastructure & Automation | 🔄 DevOps & CI/CD Practices |
-| 📦 Container Orchestration | 📐 Infrastructure as Code (IaC) |
-| 📊 Monitoring & Observability | 🌐 Distributed Systems |
+☁️ Cloud Computing & Infrastructure  
+🔄 CI/CD Automation  
+🐳 Containerization & Orchestration  
+⚙️ Infrastructure as Code (IaC)  
+📊 Monitoring & Observability  
+🚀 DevOps & Platform Engineering  
+🔐 Cloud Security Best Practices  
+📈 Distributed Systems & Scalability
 
 ---
 
@@ -58,7 +63,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 **Core tech stack**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra&theme=light" alt="Core tech stack"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra=light" alt="Core tech stack"/>
 
 </div>
 
@@ -118,7 +123,6 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 </div>
 
 ---
-
 ## 💬 Motto
 
 <div align="center">
@@ -128,6 +132,8 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 <br/><br/>
 
 > *"Automate everything, monitor continuously, and build scalable systems."*
+
+</div>
 
 <br/>
 
