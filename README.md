@@ -1,8 +1,8 @@
 <!-- Profile README: https://github.com/JDNSaiCharanKatta/JDNSaiCharanKatta -->
 <!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL before publishing -->
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4078c0,50:6a11cb,100:232f3e&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header banner"/>
+<!-- Header banner — dark theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=38&fontColor=58a6ff&animation=twinkling" width="100%" alt="Header banner"/>
 
 <div align="center">
 
@@ -19,10 +19,10 @@
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=JDNSaiCharanKatta&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/JDNSaiCharanKatta)
-[![GitHub followers](https://img.shields.io/github/followers/JDNSaiCharanKatta?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/JDNSaiCharanKatta?tab=followers)
-[![Location](https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/JDNSaiCharanKatta)
-[![Open to work](https://img.shields.io/badge/Open%20to-Cloud%20%26%20DevOps%20Roles-success?style=for-the-badge)](https://github.com/JDNSaiCharanKatta)
+[![Profile views](https://komarev.com/ghpvc/?username=JDNSaiCharanKatta&label=Profile%20views&color=161b22&labelColor=0d1117&style=for-the-badge)](https://github.com/JDNSaiCharanKatta)
+[![GitHub followers](https://img.shields.io/github/followers/JDNSaiCharanKatta?label=Followers&style=for-the-badge&logo=github&color=21262d&labelColor=0d1117)](https://github.com/JDNSaiCharanKatta?tab=followers)
+[![Location](https://img.shields.io/badge/Location-India-58a6ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)](https://github.com/JDNSaiCharanKatta)
+[![Open to work](https://img.shields.io/badge/Open%20to-Cloud%20%26%20DevOps%20Roles-238636?style=for-the-badge&labelColor=0d1117)](https://github.com/JDNSaiCharanKatta)
 
 </div>
 
@@ -58,7 +58,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 **Core tech stack**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra&theme=light" alt="Core tech stack"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra&theme=dark" alt="Core tech stack"/>
 
 </div>
 
@@ -67,7 +67,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 ### ☁️ Cloud Platforms
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 </p>
 
@@ -85,7 +85,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=232F3E" alt="CloudFormation"/>
 </p>
 
 ### 📊 Monitoring & Logging
@@ -113,25 +113,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS_DevOps_Engineer_Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=232F3E" alt="AWS DevOps Pro certification goal"/>
-
-</div>
-
----
-
-## 💬 Motto
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-
-<br/><br/>
-
-> *"Automate everything, monitor continuously, and build scalable systems."*
-
-<br/>
-
-⭐ **Always learning, building, and exploring new cloud technologies.**
+<img src="https://img.shields.io/badge/AWS_DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=232F3E&labelColor=161b22" alt="AWS DevOps Pro certification goal"/>
 
 </div>
 
@@ -141,47 +123,13 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JDNSaiCharanKatta&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JDNSaiCharanKatta&theme=dark&hide_border=false&border_radius=10&background=0D1117&ring=58A6FF&fire=FF9900&currStreakLabel=58A6FF" alt="GitHub streak stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JDNSaiCharanKatta&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDNSaiCharanKatta&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JDNSaiCharanKatta&show_icons=true&theme=dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDNSaiCharanKatta&layout=compact&theme=dark&hide_border=false&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDNSaiCharanKatta&theme=tokyo-night&hide_border=false&area=true&border_radius=10" alt="Contribution graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JDNSaiCharanKatta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-Let's connect and collaborate on **cloud automation**, **DevOps**, and **infrastructure** projects.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JDNSaiCharanKatta)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave"/>
-
-**Thanks for visiting — happy to connect!** ☁️
-
-<img src="https://media.giphy.com/media/L1R1WXzqFWd00O2gN8/giphy.gif" width="30" alt="wave gif"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDNSaiCharanKatta&theme=github-dark&hide_border=false&area=true&border_radius=10&bg_color=0d1117
