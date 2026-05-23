@@ -1,3 +1,11 @@
+<!-- Profile README: https://github.com/JDNSaiCharanKatta/JDNSaiCharanKatta -->
+<!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL before publishing -->
+
+<!-- Header banner — dark theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=38&fontColor=58a6ff&animation=twinkling" width="100%" alt="Header banner"/>
+
+<div align="center">
+
 # Hi there, I'm K J D N Sai Charan 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+scalable+cloud+infrastructure;Automating+CI%2FCD+%26+deployment+pipelines;AWS+%7C+GCP+%7C+Kubernetes+%7C+Docker;Infrastructure+as+Code+%7C+Observability" alt="Typing animation"/>
@@ -121,3 +129,38 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDNSaiCharanKatta&theme=github-dark&hide_border=false&area=true&border_radius=10&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9900" alt="Contribution graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JDNSaiCharanKatta&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+Let's connect and collaborate on **cloud automation**, **DevOps**, and **infrastructure** projects.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/JDNSaiCharanKatta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=footer&fontColor=58a6ff" alt="Footer wave"/>
+
+**Thanks for visiting — happy to connect!** ☁️
+
+<img src="https://media.giphy.com/media/L1R1WXzqFWd00O2gN8/giphy.gif" width="30" alt="wave gif"/>
+
+</div>
