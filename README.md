@@ -1,13 +1,8 @@
 <!-- Profile README: https://github.com/JDNSaiCharanKatta/JDNSaiCharanKatta -->
 <!-- Replace YOUR_LINKEDIN_URL and YOUR_EMAIL before publishing -->
-
 <!-- Header banner — dark theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=38&fontColor=58a6ff&animation=twinkling" width="100%" alt="Header banner"/>
-
 <div align="center">
-
-<!-- Optional: replace with your own banner image in repo -->
-<!-- <img src="https://raw.githubusercontent.com/JDNSaiCharanKatta/JDNSaiCharanKatta/main/assets/banner.png" width="100%" alt="Profile banner"/> -->
 
 # Hi there, I'm K J D N Sai Charan 👋
 
@@ -132,4 +127,3 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JDNSaiCharanKatta&theme=github-dark&hide_border=false&area=true&border_radius=10&bg_color=0d1117
