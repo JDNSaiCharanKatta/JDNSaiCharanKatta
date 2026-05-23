@@ -53,7 +53,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,cassandra&theme=dark&perline=11"/>
 </div>
-## ☁️ Cloud Platforms
+###☁️ **Cloud Platforms**
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
