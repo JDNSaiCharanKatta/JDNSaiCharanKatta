@@ -51,7 +51,7 @@ I am from **India** with hands-on experience in cloud platforms, automation, con
 
 **Core tech stack**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra =dark&perline=11"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux,docker,kubernetes,git,terraform,ansible,kafka,helm,cassandra&theme=dark"/>
 </div>
 
 ### ☁️ Cloud Platforms
